@@ -15,7 +15,14 @@ Commande : docker login   [Ouvrir Docker]
 
 Généralement, sous Windows et IOS, Docker compose est installé en même temps que Docker. Pour le vérifier dans le Terminal, il faut taper :   
 
-Commande : docker compose version [si on obtient une réponse, avec une version, c'est que Compose est présent]  
+comCommande : docker compose version [si on obtient une réponse, avec une version, c'est que Compose est présent]  
 
 ![alt text](docker_compose_version.PNG)  
+
+
+Installation de scoop pour installer Symfony plus facilement.
+
+Installation de Symfony version 7.2.3 depuis le Terminal de VSCode
+
+Installation de Docker-compose 
 
